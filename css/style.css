@@ -54,7 +54,7 @@ body {
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -88,6 +88,6 @@ h3 {
 }
 
 /*bg color edit*/
-section, h1, h3 {
-  background-color: pink;
+.three {
+	background-color: pink;
 }
